@@ -238,7 +238,7 @@ export default function RentalLanding() {
       >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className={`text-center mb-12 transition-all duration-700 ${visibleSections['features'] ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}>
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-3">Why Choose RentHub?</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-3">Why Choose Access?</h2>
             <p className="text-gray-600 max-w-2xl mx-auto text-lg">
               We make renting easy, safe, and affordable for everyone
             </p>
@@ -337,7 +337,7 @@ export default function RentalLanding() {
                 <div className="w-9 h-9 bg-gradient-to-br from-emerald-600 via-teal-600 to-cyan-600 rounded-lg flex items-center justify-center shadow-lg">
                   <Package className="w-5 h-5 text-white" />
                 </div>
-                <span className="text-xl font-bold text-white">RentHub</span>
+                <span className="text-xl font-bold text-white">Access</span>
               </div>
               <p className="text-sm text-gray-400 leading-relaxed">
                 Rent anything, anytime from trusted vendors in your community.
@@ -369,7 +369,7 @@ export default function RentalLanding() {
             </div>
           </div>
           <div className="border-t border-gray-800 pt-8 text-center text-sm">
-            © 2025 RentHub. All rights reserved.
+            © 2025 Access. All rights reserved.
           </div>
         </div>
       </footer>
