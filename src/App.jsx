@@ -115,7 +115,7 @@ export default function RentalLanding() {
                 <Package className="w-6 h-6 text-white" />
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-emerald-600 via-teal-600 to-cyan-600 bg-clip-text text-transparent">
-                RentHub
+                Access
               </span>
             </div>
 
@@ -167,7 +167,7 @@ export default function RentalLanding() {
             🎉 Over 10,000+ Items Available
           </div>
           <h1 className={`text-5xl md:text-6xl font-bold text-gray-900 mb-5 leading-tight transition-all duration-700 delay-100 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}>
-            Rent Anything,
+            Access Anything,
             <span className="bg-gradient-to-r from-emerald-600 via-teal-600 to-cyan-600 bg-clip-text text-transparent">
               {' '}Anytime
             </span>
